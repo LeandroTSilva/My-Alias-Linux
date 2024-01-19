@@ -1,4 +1,4 @@
-# Comando abreviados para Terminal usanso Aliases
+# Comando abreviados para terminal usando aliases
 
 ## Segue comandos para instalar programas, baixar e instalar atualizações e dependências no reposótório do Sistema.
 
